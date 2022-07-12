@@ -14,23 +14,22 @@ body {
     flex-direction: column;
     align-items: center;
     background-color: white;
-    max-width: 349px;
+    max-width: 321px;
     width: auto;
     justify-content: center;
-    min-height: 511px;
+    min-height: 447px;
     height: auto;
     border-radius: 20px;
-    margin: 60px auto;
+    margin: 75px auto;
     box-shadow: 3px 10px 40px 1px #94a6a6;
-
 }
 
 .image_qr {
-    Max-width: 290px;
+    max-width: 300px;
     width: auto;
     border-radius: 14px;
-    margin-top: -20px;
-    object-fit: cover   ;
+    margin-top: 18px;
+    object-fit: cover;
 }
 
 .titre {
@@ -38,15 +37,16 @@ body {
     text-align: center;
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
+    margin-top: 18px;
 }
 
 .description {
-    font-size: 15px;
+    font-size: 17px;
     text-align: center;
     margin: 8px;
-    font-weight: lighter;
     font-family: 'Outfit', sans-serif;
     font-weight: 400;
+    margin-top: 29px;
 }
 
 :root {
